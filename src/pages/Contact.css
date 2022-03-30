@@ -1,0 +1,17 @@
+.contact {
+  height: 100vh;
+  width: 100%;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    234deg,
+    rgba(2, 0, 36, 1) 35%,
+    rgba(9, 121, 35, 1) 70%
+  );
+  text-align: center;
+  align-content: center;
+  color: aliceblue;
+  margin-top: -3.4vh;
+}
+.contact h1 {
+  padding-top: 20%;
+}
